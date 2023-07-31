@@ -1,0 +1,78 @@
+﻿Iniciar haciendo algo que solo funcione
+así no sea bonito pero el caso es que ya es
+jugable, ya está digamos terminado, si quiero
+hacer otra iteración, otra capa de majora
+pues bien, pero que ya desde la primera capa
+pueda sacarlo
+
+Idea otro juego
+Como lo de cual es el mapa del camino de juegos mentales
+que mostraban que uno iva por un camino 3d e iva girando
+en las esquines de los pasillos y al final del recorrido
+le mostraban a uno 3 opciones de mapa y uno tenia que
+elegir la que hera el mapa de ese recorrido por el que
+acababa de pasar
+* Puede tener un modo solo y a ver hasta que record llega
+* Modo multijugador donde varios jugadores resulven el
+  mismo trayecto, y el que resulva más de seguido, gana
+* Puede haber un modo que son 10 pantallas e independientemente
+  de si acierta o no el mapa igualmente sigue, y el que
+  tenga más partidas ganadas gana o puede elegirse
+  el ganador por suerte, como en Mayotori, que al final
+  se hace una ruleta con partidas ganadas y perdidas
+  de esa manera el que gano 9-10 y el que ganó solo 1-10
+  ambos tienen posibilidad de ganar la partida
+  Podria ser como una ruleta donde solo esten las
+  veces que gano cada uno como en mayotori pero como
+  son varios jugadores las veces que gano cada uno
+  y el que caiga, gana, la gracia de resolver los mapas
+  es que aumenta su probabilidad de llevarse la corona
+Hacer los trayectos en 2d porque en 3d mi pc no anda
+
+Alva Majo: Me gusta empezar pensando en las "sensaciones
+  que quiero tranmitir con mi juego al jugador, lo que
+  el sientra" y despues pensando en como puedo hacer
+  eso
+
+Si se va haciendo nivel por nivel es un proyecto a largo plazo pero que desde el nivel 1
+ya está terminado y es jugable en sí, todo lo demás son actualizaciones para ir practicando
+o dejarlo, pero queda terminado en cualquier nivel
+
+Otra cosa a cambiar es la velocidad de la pelota y de las raquetas
+si se van moviendo mas rapido uno se tiene que ir consentrando mas y es mas divertido
+tambien depronto que cuando cambie de nivel baje o siga igual dependiendo
+del nivel al que cambie, puede ser
+
+Nivel 1:
+Juego muy simple, fondo negro, elementos (jugadores, pelota, marcadores, linea mitad cancha opcional) color blanco y sin musica
+
+Nivel 2:
+Cambia el color de los jugadores por un celeste
+
+Nivel 3:
+Cambia la imagen de los jugadores, ya no es un rectangulo sino un sprite mejor
+
+Nivel 4:
+Cambia el fondo, ahora un fondo más en condiciones, la tierra depronto
+
+Nivel 5:
+Cambian los marcadores y la pelota
+
+Nivel 6:
+El fondo ahora cambia al cielo y con animación, nubes pasando
+
+Nivel 7:
+Ahora estamos en el espacio y la pelota es un rallo laser
+
+Nivel 8:
+Depronto estamos como con música de efectos especiales en los jugadores
+  * Cuando hacen punto suena como un anime sufiendo para el que laser
+	  le hacen punto y un anima ganando para el que hace el punto
+  * Musica de fondo epica pero con algo de suavidad
+
+Nivel 9:
+Musica muy epica
+
+Nivel 10:
+Ya hay un ganador, se presenta el ganador en una pantalla de Win y se cambia
+a una música más bajita
